@@ -1,0 +1,29 @@
+.numP-btn{
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    width: 42px;
+    height: 34px;
+    line-height: 34px;
+    background-color: #f9f9f9;
+    color: #545454;
+    font-size: 20px;
+    vertical-align: middle;
+    border: 1px solid #bbbbbb;
+    border-radius: 5px;
+}
+.btn-disable{
+    color: #dddddd;
+}
+.numP-num{
+    width: 38px;
+    position: relative;
+    height: 32px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 -5px;
+    z-index: 9999;
+    text-align: center;
+    background-color: #efeff5;
+    border: 1px solid #bbbbbb;
+}
